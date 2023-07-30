@@ -1,0 +1,51 @@
+
+p{
+    color: blue;
+}
+h2{
+    color: rgb(221, 20, 204);
+}
+*{
+    color: goldenrod;
+}
+#classemment{
+    background-color: rgb(228, 103, 103);
+    font-size: 32px ;
+}
+.input-size{
+    display: block;
+    width: 50%;
+    height: 50px;
+}
+.label-center{
+    display: block;
+    margin-left: 20%;
+}
+#classemment{
+    display: block;
+    width: 200px;
+    padding-left: 100px;
+    padding-right: 75px;
+    padding-bottom: 60px;
+    padding-top: 50px;
+    border: 4px rgb(23, 12, 182);
+    margin: 30px 50px 40px 20px;
+}
+.article{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.article-container{
+    display: flex;
+}
+img{
+    width: 200px;
+    height: 100px;
+}
+.container{
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+align-items: center;
+}
